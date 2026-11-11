@@ -1,0 +1,43 @@
+
+[
+  {
+  "id": 1,
+  "name": "The Signature River Table",
+  "category": "Dining Collection",
+  "price": 285000,
+  "description": "Natural walnut wood with a deep ocean-blue epoxy river.",
+  "image": "/images/river-table.jpg", 
+    "images": [
+  "/images/river-table.jpg",
+  "/images/river-table-side.jpg"
+],
+ "specifications": {
+  "Material": "Natural walnut wood",
+  "Resin": "Ocean-blue epoxy resin",
+  "Dimensions": "180 × 90 × 75 cm",
+  "Finish": "Hand-polished finish",
+  "Production": "Made to order"
+} 
+},
+  {
+    "id": 2,
+    "name": "The Ocean Edition",
+    "category": "Premium Collection",
+    "price": 340000,
+    "description": "A distinctive live-edge design with a striking blue resin finish.",
+    "image": "/images/ocean-table.jpg",
+    "images" : [ "/images/ocean-table.jpg"
+  ]
+  },
+  {
+    "id": 3,
+    "name": "The Heritage Console",
+    "category": "Console Collection",
+    "price": 175000,
+    "description": "Elegant natural timber with a refined contemporary finish.",
+    "image": "/images/heritage-table.jpg",
+     "images" : [
+     "/images/heritage-table.jpg"
+  ]
+  }
+]
